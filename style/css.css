@@ -1,0 +1,51 @@
+body{
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+    background: url("../img/confi.png") no-repeat;
+    background-size: cover;
+}
+
+
+.navbar{
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+ 
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+.navbar-nav li{
+    padding-right: 1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    padding-top: .5rem;
+}
+
+
+
+.center{
+    position: absolute;
+    top: 40%;
+    color: white;
+    margin-left: 20px;
+
+}
+
+#txt1{
+    font-size: 1.4rem;
+}
+
+#txt2{
+    font-size: 2rem;
+}
+
+.center>a{
+    margin-left: 10px;
+}
+
+
+   
